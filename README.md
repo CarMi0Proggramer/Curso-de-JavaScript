@@ -1,4 +1,4 @@
-# CURSO DE JAVASCRIPT DESDE CERO
+# **[CURSO DE JAVASCRIPT DESDE CERO](https://www.youtube.com/playlist?list=PLo3vs-YIusZoTy3fCjbzK4Xmw_YoYKEB_)**
 
 Este repositorio es una copia de todo lo tratado en el Curso de JavaScript desde CERO que puedes ver en mi canal de YouTube.
 A través de él tendrás acceso a todos los recursos utilizados y el código fuente con comentarios explicando paso a paso como funciona cada parte del código. Espero te sirva de ayuda y no dudes en dejarme una estrella ⭐ o suscribirte a mi canal.
@@ -8,7 +8,7 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 <img alt="Curso de Node.js desde cero y práctico" src="https://github-production-user-asset-6210df.s3.amazonaws.com/1561955/254806429-8ff74316-d49e-4358-8b1e-07d7b5a64ed4.jpeg" width="500">
 
 Curso para aprender **Node** de forma práctica
-**[Todos los jueves a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
+
 </div>
 
 ## 📹 Videos con las clases
