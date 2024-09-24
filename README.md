@@ -11,4 +11,4 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 
 ## Listado de clases
 
-- Clase 1: [console.log, variables, tipos de datos, operadores y comentarios](https://www.youtube.com/watch?v=yB4n_K7dZV8)
+- Clase 1: [console.log, variables, tipos de datos, operadores y comentarios](https://youtu.be/Vv6MJRaEX3Q)
