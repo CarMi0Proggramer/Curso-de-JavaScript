@@ -13,4 +13,4 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 
 -   Clase 1: [console.log, variables, tipos de datos, operadores y comentarios](https://youtu.be/Vv6MJRaEX3Q)
 -   Clase 2: [condicionales if/else if/else, sentencia switch, operador condicional ternario](https://youtu.be/afcwxWfoe5k)
--   Clase 3: [bucles while, do/while y for, clase Math]()
+-   Clase 3: [bucles while, do/while y for, clase Math](https://youtu.be/XnL8UXa5oTo)
