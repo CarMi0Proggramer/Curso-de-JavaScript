@@ -15,4 +15,5 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 -   Clase 2: [condicionales if/else if/else, sentencia switch, operador condicional ternario](https://youtu.be/afcwxWfoe5k)
 -   Clase 3: [bucles while, do/while y for, clase Math](https://youtu.be/XnL8UXa5oTo)
 -   Clase 4: [funciones, funciones flecha, recursividad](https://youtu.be/BsdX8LVym3g)
--   Clase 5: [aprende arrays y crea el juego del ahorcado](https://youtu.be/BsdX8LVym3g)
+-   Clase 5: [Aprende arrays y crea el juego del ahorcado](https://youtu.be/jszkUlRv53o)
+-   Clase 6: [Todo sobre funciones de alto orden](https://youtu.be/nCBwb40oTso)
