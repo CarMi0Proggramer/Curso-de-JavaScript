@@ -17,3 +17,4 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 -   Clase 4: [funciones, funciones flecha, recursividad](https://youtu.be/BsdX8LVym3g)
 -   Clase 5: [Aprende arrays y crea el juego del ahorcado](https://youtu.be/jszkUlRv53o)
 -   Clase 6: [Todo sobre funciones de alto orden](https://youtu.be/nCBwb40oTso)
+-   Clase 7: [Curso de Programación Orientada a Objetos con JavaScript](https://youtu.be/SLZ8Gn-T2Pc)
