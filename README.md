@@ -18,3 +18,4 @@ A través de él tendrás acceso a todos los recursos utilizados y el código fu
 -   Clase 5: [Aprende arrays y crea el juego del ahorcado](https://youtu.be/jszkUlRv53o)
 -   Clase 6: [Todo sobre funciones de alto orden](https://youtu.be/nCBwb40oTso)
 -   Clase 7: [Curso de Programación Orientada a Objetos con JavaScript](https://youtu.be/SLZ8Gn-T2Pc)
+-   Clase 8: [Manejando errores en JavaScript](https://youtu.be/icw2eshMbyM)
